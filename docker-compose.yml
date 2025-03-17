@@ -1,0 +1,12 @@
+services:
+  app:
+    hostname: app
+    image: 'app'
+    build: .
+    container_name: files_app
+    restart: always
+    ports:
+      - "3636:9999"
+    volumes:
+      - .:/app
+      - /app/assets
