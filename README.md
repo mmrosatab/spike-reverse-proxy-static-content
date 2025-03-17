@@ -1,2 +1,2 @@
-# spike-reverseproxy
-spike-reverseproxy
+# spike-static-reverse-proxy
+spike-static-reverse-proxy
