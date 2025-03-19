@@ -10,4 +10,4 @@ Spike of application to serve static content with NGINX
 
 - http://localhost:9999/docker
 - http://localhost:9999//nginx
-- http://localhost:9999//nginx
+- http://localhost:9999//nodejs
